@@ -262,6 +262,7 @@ amazeing/
 | `animation.py` | Real-time animation: generation visualization + BFS solving |
 | `mazegen/` | Standalone reusable package with core algorithm logic |
 
+
 ---
 
 ## Reusable Package: `mazegen`
